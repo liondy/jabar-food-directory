@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/liondy/jabar-food-directory/configs"
-	"github.com/liondy/jabar-food-directory/routes"
+	"github.com/liondy/jabar-food-directory/api/configs"
+	"github.com/liondy/jabar-food-directory/api/routes"
 )
 
 func main() {
