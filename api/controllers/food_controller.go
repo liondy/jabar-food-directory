@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/liondy/jabar-food-directory/configs"
-	"github.com/liondy/jabar-food-directory/models"
-	"github.com/liondy/jabar-food-directory/responses"
+	"github.com/liondy/jabar-food-directory/api/configs"
+	"github.com/liondy/jabar-food-directory/api/models"
+	"github.com/liondy/jabar-food-directory/api/responses"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )

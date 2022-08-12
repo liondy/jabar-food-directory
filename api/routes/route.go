@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/liondy/jabar-food-directory/controllers"
+	"github.com/liondy/jabar-food-directory/api/controllers"
 )
 
 func FoodsRoute(app *fiber.App) {
