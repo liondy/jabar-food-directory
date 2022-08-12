@@ -2,10 +2,7 @@ module github.com/liondy/jabar-food-directory
 
 go 1.18
 
-require (
-	github.com/gorilla/mux v1.8.0
-	go.mongodb.org/mongo-driver v1.10.1
-)
+require go.mongodb.org/mongo-driver v1.10.1
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
